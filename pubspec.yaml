@@ -94,11 +94,7 @@ flutter_icons:
 flutter:
   assets:
     - assets/ecommerce2.png
-    - assets/shopping.json
-    - assets/loading.gif
     - assets/Comp.json
-
-
 
 
   # The following line ensures that the Material Icons font is
